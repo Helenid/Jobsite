@@ -13,4 +13,4 @@ const ViewAllJobs = () => {
   )
 }
 
-export default ViewAllJobs
+export default ViewAllJobs;
